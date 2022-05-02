@@ -1,4 +1,4 @@
-# CenterPoint Detection Relocalization based on CenterPoint
+# Detection & Relocalization based on CenterPoint
 
 3D Object Detection and Relocalization using CenterPoint in dataset [3RScan](https://github.com/WaldJohannaU/3RScan) and [Scannet](http://www.scan-net.org/).
 

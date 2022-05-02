@@ -11,7 +11,7 @@ We provide two configs, [rio_model.yaml](tools/cfgs/rio_configs/rio_model.yaml) 
 
 ## Installation
 1. download the dataset (3RScan and Scannet).
-2. refer [readme](https://github.com/tianweiy/CenterPoint/blob/master/README.md) of origin CenterPoint repo to install all dependencies.
+2. refer [readme](https://github.com/tianweiy/CenterPoint/blob/master/README.md) of original CenterPoint repo to install all dependencies.
 
 ## Acknowledgement
 
